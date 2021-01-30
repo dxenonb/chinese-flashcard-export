@@ -1,4 +1,4 @@
-# Pleco Exporter
+# Chinese Flash Card Exporter
 
 Work in progress - made for my uses but maybe someone else will come across
 this. If I get time I'll expand this to take command line args.
